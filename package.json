@@ -1,0 +1,21 @@
+{
+  "name": "everything_is_simple",
+  "version": "1.0.0",
+  "description": "gulp+SCSS+html_include+watch only folder developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "konstantinkuznetsov.kh",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "3.9.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-file-include": "^2.0.1",
+    "gulp-filesize": "0.0.6",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1"
+  }
+}
